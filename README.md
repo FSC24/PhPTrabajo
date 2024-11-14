@@ -20,7 +20,7 @@ This project is a basic application developed with PHP that demonstrates the min
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/FSC24/NodeJsTrabajo.git](https://github.com/FSC24/PhPTrabajo.git)
+git clone https://github.com/FSC24/PhPTrabajo.git
 ```
 
 2. Navigate to the project directory:
